@@ -1,0 +1,25 @@
+#main-doc{
+    position: relative;
+    margin: 0%;
+}
+#navbar{
+    position: relative;
+    top: 0;
+    height: 50;
+    
+}
+main{
+    position: relative;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+section{
+    height: 100%;
+    width: auto;
+    position: relative;
+}
+code{
+    background-color: aquamarine;
+    display: block;
+}
+
